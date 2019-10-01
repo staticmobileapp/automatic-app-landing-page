@@ -107,7 +107,7 @@ I'd love to see the sites you create using this little tool.
 [Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
 
 ## Author
-[Emil Baehr](https://emilbaehr.com/)
+[Chetan Sachdev](https://chetansachdev.com/)
 
 ## License
 [MIT License](LICENSE)
